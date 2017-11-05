@@ -1,16 +1,7 @@
-# Node rules:
-## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
-
-## Dependency directory
-## Commenting this out is preferred by some people, see
-## https://docs.npmjs.com/misc/faq#should-i-check-my-node_modules-folder-into-git
-node_modules
-
-# Book build output
-_book
-
-# eBook build output
-*.epub
-*.mobi
-*.pdf
+atlas-detector-darwin-x64
+atlas-detector-linux-armv7l
+atlas-detector-linux-ia32
+atlas-detector-linux-x64
+atlas-detector-mas-x64
+atlas-detector-win32-ia32
+atlas-detector-win32-x64
